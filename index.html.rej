@@ -1,0 +1,9 @@
+diff a/index.html b/index.html	(rejected hunks)
+@@ -7,6 +7,7 @@
+         <li>이름(학번)</li>
+         <li>Hong Gil Dong(999999)</li>
+         <li>Sook Myung(11111)</li>
++        <li>sooyeon(2212084)</li>
+     </ul>
+ </body>
+ </html>
